@@ -1,0 +1,14 @@
+# ignore folders
+makemore/ 
+.venv/
+books/
+__pycache__/
+data/
+!Sentiment Analysis/data
+Sentiment Analysis/data/aclImdb_v1/
+
+# ignore files
+Sentiment Analysis/data/aclImdb_v1.tar.gz
+sklearn_cosinesimilarity.py
+playground.ipynb
+things to implement.txt
