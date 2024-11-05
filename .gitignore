@@ -13,4 +13,11 @@ sklearn_cosinesimilarity.py
 playground.ipynb
 things to implement.txt
 test2.py
-requirements.txt
+.venv/
+__pycache__/
+
+# ignore files; classical ml files 
+sentiment_test_data.csv
+sentiment_train_data.csv
+test.py
+main.py
