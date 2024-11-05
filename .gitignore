@@ -1,0 +1,9 @@
+# ignore folders
+.venv/
+__pycache__/
+
+# ignore files
+sentiment_test_data.csv
+sentiment_train_data.csv
+test.py
+main.py
